@@ -95,7 +95,3 @@ Become a skilled Cloud Engineer capable of designing, deploying, managing, and t
 </p>
 
 ---
-
-# 💡 Fun Fact
-
-I enjoy learning cloud technologies by building practical projects and experimenting with real deployments.
