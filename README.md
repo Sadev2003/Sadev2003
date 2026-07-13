@@ -37,7 +37,6 @@ I focus on:
 - Deployment automation
 - Docker containerization
 - Linux system management
-- Backend and database integration
 
 ---
 
