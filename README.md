@@ -17,14 +17,6 @@ I focus on:
 
 ---
 
-## 🌐 Portfolio & Online Presence
-
-🌐 **Portfolio Website:** [sadevsabuddhika.tech](https://sadevsabuddhika.tech/)  
-💼 **LinkedIn:** [linkedin.com/in/sadevsabuddhika](https://www.linkedin.com/in/sadevsabuddhika/)  
-✉️ **Email:** Sadevsabuddhika89@gmail.com
-
----
-
 ## 🛠 Tools & Technologies
 
 <p align="left">
