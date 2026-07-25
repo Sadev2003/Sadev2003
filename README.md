@@ -12,14 +12,14 @@ I am an undergraduate student focused on cloud engineering, cloud administration
 
 I focus on:
 - **Cloud Infrastructure & Administration:** Resource management, security, governance, and architecture on Microsoft Azure.
-- **DevOps & Automation:** Building CI/CD pipelines, containerization, and environment automation using GitHub Actions and Docker.
-- **Systems & Operations:** Linux system administration, shell scripting, and infrastructure management.
+- **DevOps & Automation:** Building CI/CD pipelines, containerization, and environment automation using GitHub Actions, Docker, and Docker Compose.
+- **Systems & Monitoring:** Linux system administration, and infrastructure monitoring with Prometheus and Grafana.
 
 ---
 
 ## 🌐 Portfolio & Online Presence
 
-🌐 **Portfolio Website:** [sadevsabuddhika.com](https://sadevsabuddhika.com) *(Replace with your URL)*  
+🌐 **Portfolio Website:** [sadevsabuddhika.tech](https://sadevsabuddhika.tech)  
 💼 **LinkedIn:** [linkedin.com/in/sadevsabuddhika](https://www.linkedin.com/in/sadevsabuddhika/)  
 ✉️ **Email:** Sadevsabuddhika89@gmail.com
 
@@ -28,23 +28,30 @@ I focus on:
 ## 🛠 Tools & Technologies
 
 <p align="left">
-  <!-- Cloud & DevOps -->
+  <!-- Cloud, DevOps & Monitoring -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" height="40" alt="Azure"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="40" alt="Docker"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/githubactions/githubactions-original.svg" height="40" alt="GitHub Actions"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/prometheus/prometheus-original.svg" height="40" alt="Prometheus"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/grafana/grafana-original.svg" height="40" alt="Grafana"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="40" alt="Linux"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" height="40" alt="Bash"/>
   
-  <!-- Scripting & Databases -->
+  <!-- Languages & Web Technologies -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="Python"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="JavaScript"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="HTML5"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="CSS3"/>
+  
+  <!-- Databases -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="40" alt="PostgreSQL"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="MySQL"/>
   
-  <!-- Development & Workflow Tools -->
+  <!-- Tools & Workflow -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="Git"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="40" alt="GitHub"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" alt="VS Code"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jira/jira-original.svg" height="40" alt="Jira"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="40" alt="Figma"/>
 </p>
 
 ---
