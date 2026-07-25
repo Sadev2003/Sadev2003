@@ -59,7 +59,7 @@ I focus on:
 ## 🌐 Connect With Me
 
 <p align="left">
-  <a href="https://sadevsabuddhika.com">
+  <a href="https://sadevsabuddhika.tech">
     <img src="https://img.shields.io/badge/Portfolio-255823?style=for-the-badge&logo=react&logoColor=white" alt="Portfolio"/>
   </a>
   <a href="https://www.linkedin.com/in/sadevsabuddhika/">
